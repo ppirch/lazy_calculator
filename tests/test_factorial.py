@@ -1,7 +1,7 @@
 # Desc: Tests for factorial.py
 
 import pytest
-from lazy_calculator.factorial import factorial
+from lazy_calculator import factorial
 
 
 def test_factorial_negative():

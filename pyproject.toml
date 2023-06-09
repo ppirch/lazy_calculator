@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lazy-calculator"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Powerful Python Library for Effortless Calculations"
 authors = ["ppirch"]
 license = "Apache-2.0"
